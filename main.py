@@ -1,3 +1,4 @@
+# https://leetcode.com/problems/two-sum/  chernyshov_nikita
 class Solution(object):
     def change(self, array, i, j):
         a = array[i]
